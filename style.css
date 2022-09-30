@@ -6,7 +6,7 @@
     font-family: 'Poppins', sans-serif;
 }
 
-:root {
+:root {   
     --bg-color: #1d0023;
     --primary-color: #DA196B;
     --background: linear-gradient(25deg, #290031, #610344, #9c0c57, #da196b);
